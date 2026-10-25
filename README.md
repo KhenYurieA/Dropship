@@ -1,7 +1,7 @@
 
 <img width="1818" height="890" alt="image" src="https://github.com/user-attachments/assets/cb68a355-5b0f-46ee-b131-b31324ac77e8" />
 
-<img width="1812" height="841" alt="image" src="https://github.com/user-attachments/assets/b2b878fb-93e3-4cee-a1c9-7bd304cb5e15" />
+
 
 
 # Dropship Dropshipping Store Website
